@@ -1,6 +1,6 @@
-Heya,
+**Heya,**
 
-I'm Arjun, a software engineer from Goa, India 🌴.
+I'm [Arjun][https://www.instagram.com/arjunverma4/], a software engineer from Goa, India 🌴.
 
 I convert ideas and slow, manual systems to fast, automatic software programs.
 
@@ -16,4 +16,4 @@ Fun facts:
 
 - I listen to a lot of electronic music and love categorizing it
 
--I battle Pokemon competitively online
+- I battle Pokemon competitively online
