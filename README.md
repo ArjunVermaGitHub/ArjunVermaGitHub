@@ -18,4 +18,4 @@ Fun facts:
 
 - I listen to a lot of electronic music and love overcategorizing it
 
-- I battle Pokemon competitively online
+- I play chess & battle Pokemon competitively online
