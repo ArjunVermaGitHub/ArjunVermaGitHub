@@ -8,6 +8,8 @@ My main tech stack is React/Next, React Native, Node/Express, MongoDB. As a fron
 
 I'm building my own tech for my startup [Sociolite](https://sociolite.co) 
 
+I've worked in startups of health tech, IoT, ecommerce, and fintech. Now I'm making it in dating and social skills. Talk about diversification
+
 Fun facts:
 
 - I love exercise - gym and beach walks/runs
