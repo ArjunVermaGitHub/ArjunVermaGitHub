@@ -1,16 +1,19 @@
-## Hi there 👋
+Heya,
 
-<!--
-**ArjunVermaGitHub/ArjunVermaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arjun, a software engineer from Goa, India 🌴.
 
-Here are some ideas to get you started:
+I convert ideas and slow, manual systems to fast, automatic software programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is React/Next, React Native, Node/Express, MongoDB. As a frontend expert, you'll often find me using Redux, React Query and researching UI libraries and best UI/UX practices. I love visualizations using D3js as well.
+
+I'm building my own tech for my startup [Sociolite](https://sociolite.co) 
+
+Fun facts:
+
+- I love exercise - gym and beach walks/runs
+
+- I love to talk about the psychology and sociology of dating and relationships
+
+- I listen to a lot of electronic music and love categorizing it
+
+-I battle Pokemon competitively online
